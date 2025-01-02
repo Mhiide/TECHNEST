@@ -1,0 +1,43 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background: none;
+}
+
+.character {
+    background-color: rgb(194, 28, 28);
+    height: 700px;
+    width: 350px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px 10px 10px 37%;
+    border-radius: 20px;
+    position: sticky;
+    box-shadow: 6px 5px 5px 8px rgb(114, 2, 2);
+}
+
+.character img {
+    background: none;
+    border-radius: 5px;
+}
+
+.description {
+    text-align: left;
+    background:none;
+    font-size: 18px;
+    color: black;
+    line-height: 5px;
+    font-weight: 400;
+    border: none;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h1:hover {
+    color: black;
+}
